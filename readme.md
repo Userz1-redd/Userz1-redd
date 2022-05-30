@@ -12,9 +12,12 @@
 <br>
 
 ## 🔥 Baekjoon Stats
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldaktmxj)](https://solved.ac/zheldaktmxj)
 
+
+![zheldaktmxj's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=zheldaktmxj)
 <br>
 <br>
 
