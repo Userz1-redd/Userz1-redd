@@ -7,6 +7,7 @@
 - :trophy: 아주대학교 2021 캡스톤디자인 경진대회 최우수상 [Link](https://lincplus.ajou.ac.kr/acot/?m=30002&mode=view&idx=1049&returnURL=UE83UEJ3bHB4T0s5eUYxUjZjdm9RaGxWdlFVOXg2bEtuU0IvQWxQaHp6SEk2MktocGZZYk81SkROdDNGUG9jaw==)
 - :technologist: 안드로이드 Junior 개발자 
 - :computer: WORKS MOBILE(네이버웍스) 안드로이드 개발 인턴 2개월 근무 
+- :computer: 카카오엔터프라이즈에서 카카오워크 안드로이드 개발 담당
 - :student: [블로그](https://velog.io/@jihoon97)
 - :thinking: "어떻게" 보다는 "왜"를 중점적으로 학습하는 개발자 
 <br>
